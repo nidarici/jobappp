@@ -1,0 +1,52 @@
+#redP {
+
+    color: red;
+    }
+        
+    #blueP, h1 {
+        
+        color: rgb(137, 137, 194);
+    }
+    
+    #purpleP {
+        color: indianred;
+    }
+    
+    #grayR {
+        color: rgb(153, 58, 58);
+    }
+        
+    .classR {
+        color: red;
+    }  
+        
+    .classB {
+        color: blue;
+    } 
+        
+    .classG {
+        color:green;
+    } 
+        
+    #firstP {
+        
+        text-decoration: underline;
+        text-align: center;
+        font-family: sans-serif;
+    }
+        
+    #secondP {
+        
+        text-decoration: line-through;
+        text-align: left;
+        font-family: Impact;
+    }
+        
+    #thirdP {
+        
+        text-decoration: none;
+        text-align: right;
+        font-family: Courier;
+    }
+        
+    
